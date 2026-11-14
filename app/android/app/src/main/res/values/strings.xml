@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Jardin de Samouraï</string>
+    <string name="title_activity_main">Jardin de Samouraï</string>
+    <string name="package_name">fr.jardinsamourai.jeu</string>
+    <string name="custom_url_scheme">fr.jardinsamourai.jeu</string>
+</resources>

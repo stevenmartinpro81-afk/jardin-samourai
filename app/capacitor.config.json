@@ -1,0 +1,10 @@
+{
+  "appId": "fr.jardinsamourai.jeu",
+  "appName": "Jardin de Samouraï",
+  "webDir": "www",
+  "backgroundColor": "#24221f",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 1200, "backgroundColor": "#f3e9d2", "showSpinner": false }
+  }
+}

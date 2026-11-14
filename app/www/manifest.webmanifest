@@ -1,0 +1,15 @@
+{
+  "name": "Jardin de Samouraï",
+  "short_name": "Jardin Samouraï",
+  "description": "Tower defense zen : plante, fusionne et défends le sanctuaire contre les yōkai.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#24221f",
+  "theme_color": "#24221f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
